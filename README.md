@@ -68,8 +68,8 @@ Containerized decision-support system running on Google Cloud Run. Processes pit
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashfmh&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashfmh&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Kashfmh&theme=github-dark&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashfmh&theme=github_dark" height="160"/>
 </p>
 
 ---
