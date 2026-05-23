@@ -53,12 +53,12 @@ CS student at Sunway University. I build full-stack web apps and I'm currently g
 
 ## 🚀 Projects
 
-### [Sugar & Icing](https://github.com/Kashfmh/sugar-and-icing) — [Live](https://sugarandicing.vercel.app/)
+### [Sugar & Icing](https://github.com/kashals/sugar-and-icing) — [Live](https://sugarandicing.vercel.app/)
 Production-grade e-commerce platform for a local bakery. Server-authoritative Stripe checkout, Cloudflare Turnstile bot protection, Upstash Redis rate limiting, atomic stock deduction via Supabase RPC, and a role-gated admin dashboard with real-time revenue analytics.
 
 `Next.js 15` `TypeScript` `Supabase` `Stripe` `Upstash Redis` `Tailwind CSS`
 
-### [LinkOps Engine](https://github.com/Kashfmh/linkops) — [Live](https://linkops-engine-909093874855.asia-southeast1.run.app)
+### [LinkOps Engine](https://github.com/kashals/linkops) — [Live](https://linkops-engine-909093874855.asia-southeast1.run.app)
 Containerized decision-support system running on Google Cloud Run. Processes pitch decks through Gemini 2.5 Flash async batch queues and maps venture constraints against live relational data. Includes an XAI chat interface for real-time AI decision auditing.
 
 `Python` `Streamlit` `Gemini API` `Docker` `Google Cloud Run` `Pandas`
@@ -68,8 +68,8 @@ Containerized decision-support system running on Google Cloud Run. Processes pit
 ## 📊 Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Kashfmh&theme=github-dark&hide_border=true" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kashfmh&theme=github_dark" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=kashals&theme=github-dark&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashals&theme=github_dark" height="160"/>
 </p>
 
 ---
